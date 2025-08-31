@@ -10,3 +10,4 @@ console.log("This is a new line feature2 added to init.js");
 feature1
 
 console.log("This is a simple main JavaScript file.");
+console.log(feature1) 
