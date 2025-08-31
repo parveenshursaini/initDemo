@@ -11,3 +11,5 @@ feature1
 
 console.log("This is a simple main JavaScript file.");
 console.log(feature2) 
+console.log("This is a new line feature1 added to init.js");
+
