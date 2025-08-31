@@ -6,3 +6,5 @@ const anotherFunction = () => {
     console.log("Hello from anotherFunction!");
 }
 anotherFunction();
+
+
