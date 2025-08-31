@@ -7,5 +7,6 @@ const anotherFunction = () => {
 }
 anotherFunction();
 console.log("This is a new line feature2 added to init.js");
+feature1
 
 
