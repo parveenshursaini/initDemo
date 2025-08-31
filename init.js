@@ -7,4 +7,4 @@ const anotherFunction = () => {
 }
 anotherFunction();
 
-
+console.log("This is a simple main JavaScript file.");
